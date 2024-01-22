@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm sunil kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-kumar02&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-kumar02" /> </p>
 
+<img align = "right" alt="coding" width="600" height="300" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
+
 - I’m currently working (or trying to work) on [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git)
 
 - 🌱 I’m currently learning **Backend(springboot)**
@@ -11,7 +13,7 @@
 
 - 📫 Reach me at **patelsunilkumar302@gmail.com**
 
-- I have actively engaged in the LeetCode **https://leetcode.com/sunil666/**
+  -⚡ Fun fact (Bike-Riding 🏍️ Vollyball ⚽ cooking 🍳🍽️)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
