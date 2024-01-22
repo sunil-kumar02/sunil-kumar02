@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sunil kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-kumar02&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-kumar02" /> </p>
 
-<img align = "right" alt="coding" width="600" height="300" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<img align = "right" alt="coding" width="500" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 - I’m currently working (or trying to work) on [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [right here](https://github.com/sunil-kumar02?tab=repositories)
 
-- 📄 Know about my more [skills](https://drive.google.com/file/d/1UQ_A0xsiN2-08S1RDLnr4U4LFsV1PqMU/view?usp=sharing)
+- 📄 Know about my more skills [Resume](https://drive.google.com/file/d/1UQ_A0xsiN2-08S1RDLnr4U4LFsV1PqMU/view?usp=sharing)
 
 - 📫 Reach me at **patelsunilkumar302@gmail.com**
 
