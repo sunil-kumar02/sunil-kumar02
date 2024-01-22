@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sunil kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-kumar02&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-kumar02" /> </p>
 
-<img align = "right" alt="coding" width="500" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<img align = "right" alt="coding" width="450" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 -🔭 I have worked on [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git) and [Dosify](https://github.com/sunil-kumar02/Dosify)
   
