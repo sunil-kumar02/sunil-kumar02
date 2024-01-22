@@ -5,7 +5,7 @@
 
 - I’m currently working (or trying to work) on [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git)
 
-- 🌱 I’m currently learning **Backend(springboot)**
+- 🌱 I’m currently learning **Java,DSA,Spring-Boot,.Net(Acciojob Bootcamp)**
 
 - 👨‍💻 All of my projects are available [right here](https://github.com/sunil-kumar02?tab=repositories)
 
