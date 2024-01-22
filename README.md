@@ -3,8 +3,8 @@
 
 <img align = "right" alt="coding" width="500" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
-- I’m currently working (or trying to work) on [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git)
-
+-🔭 I have worked on [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git) and [Dosify](https://github.com/sunil-kumar02/Dosify)
+  
 - 🌱 I’m currently learning **Java,DSA,Spring-Boot,.Net(Acciojob Bootcamp)**
 
 - 👨‍💻 All of my projects are available [right here](https://github.com/sunil-kumar02?tab=repositories)
