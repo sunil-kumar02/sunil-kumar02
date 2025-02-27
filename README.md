@@ -5,7 +5,7 @@
 
 -🔭 I have worked on [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git) and [Dosify](https://github.com/sunil-kumar02/Dosify)
   
-- 🌱 I’m currently learning **Java,DSA,Spring-Boot,.Net(Acciojob Bootcamp)**
+- 🌱 I have Hands-on experience with **Java,DSA,Spring-Boot**
 
 - 👨‍💻 All of my projects are available [right here](https://github.com/sunil-kumar02?tab=repositories)
 
