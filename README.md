@@ -3,19 +3,22 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
-- 🔭 I’m currently working at **Snapdeal** as a **Software Engineer in Test**
+- 🔭 Currently working at **Snapdeal** as a **Software Engineer in Test**
 
-- 💼 I’ve built projects like [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git) and [Dosify](https://github.com/sunil-kumar02/Dosify)
+- 🧪 I have experience in **Automation & Manual Testing**, and have worked extensively with:
+  - **Selenium**, **Appium**, **JIRA**, **Charles Proxy**, **Postman**,**firebase** and **Jenkins** etc.
 
-- 🌱 I have hands-on experience with **Java, Data Structures & Algorithms, Spring Boot**
+- 💻 Built full-stack projects like [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git) and [Dosify](https://github.com/sunil-kumar02/Dosify)
 
-- 👨‍💻 You can check out all of my projects [here](https://github.com/sunil-kumar02?tab=repositories)
+- 🌱 Skilled in **Java, Data Structures & Algorithms, Spring Boot**
 
-- 📄 View my [Resume](https://drive.google.com/file/d/1tj8vbyHgvqJsdEhJAjY0xNQ_pPyQL1Mj/view?usp=sharing) for more details
+- 👨‍💻 Explore all of my projects [here](https://github.com/sunil-kumar02?tab=repositories)
 
-- 📫 Feel free to reach out at **patelsunilkumar302@gmail.com**
+- 📄 View my full [Resume](https://drive.google.com/file/d/1tj8vbyHgvqJsdEhJAjY0xNQ_pPyQL1Mj/view?usp=sharing)
 
-- ⚡ Fun fact: I love **bike riding 🏍️, volleyball 🏐, and cooking 🍳**
+- 📫 Reach me at **patelsunilkumar302@gmail.com**
+
+- ⚡ Fun fact: I enjoy **bike riding 🏍️, volleyball 🏐, and cooking 🍳**
 
 ---
 
@@ -38,6 +41,11 @@
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/> </a>
+  <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Appium_logo_2022.svg/512px-Appium_logo_2022.svg.png" alt="Appium" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="JIRA" width="40" height="40"/> </a>
+  <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"> <img src="https://www.charlesproxy.com/images/icon_128x128.png" alt="Charles Proxy" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
