@@ -11,7 +11,7 @@
 
 - 👨‍💻 You can check out all of my projects [here](https://github.com/sunil-kumar02?tab=repositories)
 
-- 📄 View my [Resume](https://drive.google.com/file/d/1UQ_A0xsiN2-08S1RDLnr4U4LFsV1PqMU/view?usp=sharing) for more details
+- 📄 View my [Resume](https://drive.google.com/file/d/1tj8vbyHgvqJsdEhJAjY0xNQ_pPyQL1Mj/view?usp=sharing) for more details
 
 - 📫 Feel free to reach out at **patelsunilkumar302@gmail.com**
 
