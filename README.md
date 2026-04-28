@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
-- 🔭 Currently working at **Snapdeal** as a **Software Engineer in Test**
+- 🔭 Currently working at **Snapdeal** as a **Software Engineer**
 
 - 🧪 I have experience in **Automation & Manual Testing**, and have worked extensively with:
   - **Selenium**, **Appium**, **JIRA**, **Charles Proxy**, **Postman**,**firebase** and **Jenkins** etc.
