@@ -13,7 +13,7 @@
 
 - 👨‍💻 Explore all of my projects [here](https://github.com/sunil-kumar02?tab=repositories)
 
-- 📄 View my full [Resume](https://drive.google.com/file/d/1tj8vbyHgvqJsdEhJAjY0xNQ_pPyQL1Mj/view?usp=sharing)
+- 📄 View my full [Resume](https://drive.google.com/file/d/1MgbjsCZ17Uvfg4mKfTSx79kh4pk6uNIY/view?usp=sharing)
 
 - 📫 Reach me at **patelsunilkumar302@gmail.com**
 
