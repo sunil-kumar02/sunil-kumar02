@@ -5,8 +5,7 @@
 
 - 🔭 Currently working at **Snapdeal** as a **Software Engineer**
 
-- 🧪 I have experience in **Automation & Manual Testing**, and have worked extensively with:
-  - **Selenium**, **Appium**, **JIRA**, **Charles Proxy**, **Postman**,**firebase** and **Jenkins** etc.
+- 🧪 I am currently working as an Software Developer building scalable applications using Java, Spring Boot, REST APIs, and SQL,SOA ,with strong fundamentals in DSA,Redis, OOP, and system design. Proven problem-solving skills with hands-on experience in Git, debugging, and collaborating in Agile
 
 - 💻 Built full-stack projects like [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git) and [Dosify](https://github.com/sunil-kumar02/Dosify)
 
