@@ -9,7 +9,7 @@
 
 - 💻 Built full-stack projects like [FlipCommerce](https://github.com/sunil-kumar02/FlipCommerce.git) and [Dosify](https://github.com/sunil-kumar02/Dosify)
 
-- 🌱 Skilled in **Java, Data Structures & Algorithms, Spring Boot**
+- 🌱 Skilled in **Java,python, Data Structures & Algorithms, Spring Boot,DSA,Redis, OOP,microservices,AWS and system design etc.**
 
 - 👨‍💻 Explore all of my projects [here](https://github.com/sunil-kumar02?tab=repositories)
 
